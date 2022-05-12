@@ -1,0 +1,28 @@
+.root {
+    -fx-background-color: #CCCCFF;
+    }
+
+
+ #volumeSlider{
+ -fx-background-color: #666699;
+
+ }
+
+ #volumeSlider:hover{
+-fx-background-color: #3399FF;
+-fx-cursor: hand
+}
+
+ #durationTime{
+ -fx-background-color: #CCCCCC;
+ -fx-border-radius: 2px;
+
+ }
+ #durationTime:hover{
+ -fx-cursor: hand
+
+  }
+
+
+
+
